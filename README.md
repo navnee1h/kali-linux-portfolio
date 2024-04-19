@@ -45,5 +45,4 @@ Contributions are welcome and appreciated! If you'd like to contribute to this p
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-Special credits to [vivek9patel](https://www.linkedin.com/in/vivek9patel/) for creating the original Ubuntu version of this project. Thank you for your contribution to the open-source community!
-Special credits to [vivek9patel](https://www.linkedin.com/in/vivek9patel/) for creating the original Ubuntu version of this project. Thank you for your contribution to the open-source community! And a special thanks to [mohd aslam](https://www.linkedin.com/in/aslamx3r/) for modifying the original version to the Kali version.
+Special credits to [vivek9patel](https://www.linkedin.com/in/vivek9patel/) for creating the original Ubuntu version of this project. Thank you for your contribution to the open-source community And a special thanks to [mohd aslam](https://www.linkedin.com/in/aslamx3r/) for modifying the original version to the Kali version.
