@@ -151,7 +151,7 @@ function Education() {
                 </li>
                 <li className="list-disc mt-5">
                     <div className=" text-lg md:text-xl text-left font-bold leading-tight">
-                        Class 12<sup>th</sup> (IHRD)
+                        Class 12<sup>th</sup>
                     </div>
                     <div className=" text-sm text-gray-400 mt-0.5">2021 - 2023</div>
                     <div className=" text-sm md:text-base">Bio science</div>
