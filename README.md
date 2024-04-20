@@ -7,10 +7,10 @@ Welcome to my Kali Linux-themed personal portfolio website! This project is a we
 To get started with this project, you can follow these simple steps:
 
 1. **Clone the Repository**: Clone this project to your local machine using the following command:
-git clone https://github.com/x3rcyb/kali-linux-portfolio.git
+git clone https://github.com/navnee1h/navnee1h.github.io.git
 
 2. **Install Dependencies**: Navigate to the project directory and install the necessary dependencies using npm or yarn:
-cd kali-linux-portfolio
+cd navnee1h.github.io
 npm install
 
 3. **Run the Project**: Start the development server to run the project locally:
@@ -45,4 +45,4 @@ Contributions are welcome and appreciated! If you'd like to contribute to this p
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-Special credits to [vivek9patel](https://www.linkedin.com/in/vivek9patel/) for creating the original Ubuntu version of this project. Thank you for your contribution to the open-source community!
+Special credits to [vivek9patel](https://www.linkedin.com/in/vivek9patel/) for creating the original Ubuntu version of this project. Thank you for your contribution to the open-source community And a special thanks to [mohd aslam](https://www.linkedin.com/in/aslamx3r/) for modifying the original version to the Kali version.
